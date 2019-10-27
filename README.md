@@ -1,2 +1,3 @@
 # devwe1
-git demo repository
+THIS IS DEMO DIRECTORY 
+CEATED BY MALLIK FOR GIT DEMO PURPOSE.......
